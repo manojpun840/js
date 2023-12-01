@@ -1,0 +1,13 @@
+.cost-input{
+    font-size: 15px;
+    padding: 10px;
+}
+
+.calculate-button{
+    background-color: green;
+    border: none;
+    color: white;
+    padding: 12px;
+    font-size: 15px;
+    cursor: pointer;
+}

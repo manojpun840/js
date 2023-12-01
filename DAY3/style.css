@@ -1,0 +1,7 @@
+.hello{
+    background-color: green;
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 3px;
+    cursor: pointer;
+}
